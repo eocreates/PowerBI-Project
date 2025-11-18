@@ -30,13 +30,14 @@ BloomGro management needs clarity on:
 
 ## Aim of the Project
 To conduct a full Power BI analytics solution that:
-✔ Measures key business KPIs
-✔ Identifies high- and low-performing product groups
-✔ Highlights outlet-level profit drivers
-✔ Assesses customer sentiment through ratings
-✔ Supports data-driven business strategy and optimization
+* Measures key business KPIs
+* Identifies high- and low-performing product groups
+* Highlights outlet-level profit drivers
+* Assesses customer sentiment through ratings
+* Supports data-driven business strategy and optimization
 
 Data Sources
+The primary data set used for this analysis is the ["BloomGro Dataset"](https://github.com/eocreates/PowerBI-Project/blob/main/BloomGroStore/BloomGro%20Grocery%20Data.xlsx) file
 Data Table	Description
 Sales Data	Includes sales revenue, quantity, and item attributes
 Outlet Data	Includes outlet size, establishment year, location & type
