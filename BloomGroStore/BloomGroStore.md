@@ -84,5 +84,23 @@ Metric = {
   <img src="https://github.com/eocreates/PowerBI-Project/blob/main/BloomGroStore/BloomGro.png" width="1000">
 </a>
 
+## Key Insights
+* Medium-sized outlets drive the highest total sales
+* Tier 3 outlets outperform Tier 1 & 2
+* Fruits, Snacks, and Household items lead in revenue
+* Outlets established between 2014–2018 performed strongest
+* Low-Fat items sell higher volume; Regular items generate more revenue
+* Customer ratings remain stable at an average of 3.9
 
+## Results / Findings
+* Total sales exceed £1.20M
+* Over 8,523 items recorded
+* Stable customer satisfaction score (3.9 rating)
+* Supermarket Type 1 leads across all KPIs
+
+## Recommendations
+* Increase inventory for high-performing categories (Snacks, Fruits, Household)
+* Prioritize growth in Tier 3 & medium-sized outlets
+* Improve product lines with low customer ratings
+* Reevaluate underperforming outlet types and locations
 
