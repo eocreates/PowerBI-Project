@@ -81,7 +81,7 @@ Metric = {
 
 ## Dashboard
 <a href="https://github.com/eocreates/PowerBI-Project/blob/main/BloomGroStore/BloomGro.png">
-  <img src="https://github.com/eocreates/PowerBI-Project/blob/main/BloomGroStore/BloomGro.png" width="900">
+  <img src="https://github.com/eocreates/PowerBI-Project/blob/main/BloomGroStore/BloomGro.png" width="1000">
 </a>
 
 
