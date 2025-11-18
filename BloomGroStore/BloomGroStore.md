@@ -5,7 +5,6 @@ Table of Contents
   * Business Problem
   * Aim of the Project
   * Data Sources
-  * Process Workflow
   * KPI Requirements
   * Key Insights
   * Dashboard Features
@@ -36,7 +35,7 @@ To conduct a full Power BI analytics solution that:
 * Assesses customer sentiment through ratings
 * Supports data-driven business strategy and optimization
 
-Data Sources
+## Data Sources
 The primary data set used for this analysis is the ["BloomGro Dataset"](https://github.com/eocreates/PowerBI-Project/blob/main/BloomGroStore/BloomGro%20Grocery%20Data.xlsx) file
 
 | Data Table       | 	Description            | 
@@ -45,6 +44,45 @@ The primary data set used for this analysis is the ["BloomGro Dataset"](https://
 | Outlet Data	    | 	Includes outlet size, establishment year, location & type  |
 |Item Data	   | Includes	item type, fat content, customer ratings  |
 
+## KPI Requirements
+1. Total Sales
+Total revenue generated from all items sold.
+```DAX
+Total Sales = SUM(Sales[Sales_Amount])
+```
+
+2. Average Sales
+The average revenue per transaction/item.
+````DAX:
+Average Sales = AVERAGE(Sales[Sales_Amount])
+````
+
+3. Number of Items
+Total count of different items sold.
+````DAX
+Number of Items = DISTINCTCOUNT(Sales[Item_Identifier])
+`````
+
+4. Average Rating
+Overall customer satisfaction score for purchased items.
+````DAX
+Average Rating = AVERAGE(Items[Rating])
+````
+DAX METRICS
+This is a calculated table that creates a list of KPI names and their measure references and allows switching between KPIs using a slicer/button
+```DAX
+Metric = {
+    ("Total Sales", NAMEOF('BloomGro'[Total Sales]), 0),
+    ("No of Sales", NAMEOF('BloomGro'[No of Sales]), 1),
+    ("Avg Sales", NAMEOF('BloomGro'[Avg Sales]), 2),
+    ("Avg Ratings", NAMEOF('BloomGro'[Avg Ratings]), 3)
+}
+```
+
+## Dashboard
+<a href="https://raw.githubusercontent.com/eocreates/PowerBI-Project/blob/main/BloomGroStore/BloomGro.png">
+  <img src="https://raw.githubusercontent.com/eocreates/PowerBI-Project/blob/main/BloomGroStore/BloomGro.png" width="700">
+</a>
 
 
 
