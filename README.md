@@ -9,7 +9,7 @@ I use Power BI Desktop and Power BI Service to build scalable reporting solution
 
 ⚙ Key Features of My Power BI Projects:
 
-* Adidas Sales Analysis 
+[* Adidas Sales Analysis](https://github.com/eocreates/PowerBI-Project/blob/main/Adidas%20Sales%20Analysis/Adidas%20Sales%20Report.md)
 
 
 Each dashboard reflects my passion for combining data visualization and strategic storytelling to turn numbers into meaningful narratives.
