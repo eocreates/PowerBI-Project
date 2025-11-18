@@ -78,12 +78,6 @@ Metric = {
     ("Avg Ratings", NAMEOF('BloomGro'[Avg Ratings]), 3)
 }
 ```
-
-## Dashboard
-<a href="https://github.com/eocreates/PowerBI-Project/blob/main/BloomGroStore/BloomGro.png">
-  <img src="https://github.com/eocreates/PowerBI-Project/blob/main/BloomGroStore/BloomGro.png" width="1000">
-</a>
-
 ## Key Insights
 * Medium-sized outlets drive the highest total sales
 * Tier 3 outlets outperform Tier 1 & 2
@@ -91,6 +85,11 @@ Metric = {
 * Outlets established between 2014–2018 performed strongest
 * Low-Fat items sell higher volume; Regular items generate more revenue
 * Customer ratings remain stable at an average of 3.9
+
+## Dashboard
+<a href="https://github.com/eocreates/PowerBI-Project/blob/main/BloomGroStore/BloomGro.png">
+  <img src="https://github.com/eocreates/PowerBI-Project/blob/main/BloomGroStore/BloomGro.png" width="1000">
+</a>
 
 ## Results / Findings
 * Total sales exceed £1.20M
