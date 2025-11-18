@@ -1,7 +1,7 @@
 ## BloomGro Store Analysis
 -----
 Table of Contents
-  * Project Overview
+  * [Project Overview](## Project Overview)
   * Business Problem
   * Aim of the Project
   * Data Sources
