@@ -38,8 +38,13 @@ To conduct a full Power BI analytics solution that:
 
 Data Sources
 The primary data set used for this analysis is the ["BloomGro Dataset"](https://github.com/eocreates/PowerBI-Project/blob/main/BloomGroStore/BloomGro%20Grocery%20Data.xlsx) file
-Data Table	Description
-Sales Data	Includes sales revenue, quantity, and item attributes
-Outlet Data	Includes outlet size, establishment year, location & type
-Item Data	Includes item type, fat content, customer ratings
+
+| Data Table       | 	Description            | 
+| ----------- | ---------------------------- | 
+| DSales Data     | 	Includes sales revenue, quantity, and item attributes  |
+| Outlet Data	    | 	Includes outlet size, establishment year, location & type  |
+|Item Data	   | Includes	item type, fat content, customer ratings  |
+
+
+
 
