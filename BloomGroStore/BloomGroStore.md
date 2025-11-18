@@ -1,15 +1,15 @@
 ## BloomGro Store Analysis
 -----
 Table of Contents
-  * [Project Overview](# Project Overview)
-  * Business Problem
-  * Aim of the Project
-  * Data Sources
-  * KPI Requirements
-  * Key Insights
-  * Dashboard Features
-  * Results / Findings
-  * Recommendations
+  * [Project Overview](#Project-Overview)
+  * [Business Problem ](#Business-Problem)
+  * [Aim of the Project](#Aim-of-the-Project)
+  * [Data Sources](#Data-Sources)
+  * [KPI Requirements](#KPI-Requirements)
+  * [Key Insights](#Key-Insights)
+  * [Dashboard Features](#Dashboard-Features)
+  * [Results / Findings](#Results-/-Findings)
+  * [Recommendations](#Recommendations)
 
 ## Project Overview
 BloomGro is a retail brand specializing in grocery and household items.
