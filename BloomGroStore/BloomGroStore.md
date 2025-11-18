@@ -69,7 +69,7 @@ Overall customer satisfaction score for purchased items.
 Average Rating = AVERAGE(Items[Rating])
 ````
 DAX METRICS
-This is a calculated table that creates a list of KPI names and their measure references and allows switching between KPIs using a slicer/button
+* This is a calculated table that creates a list of KPI names and their measure references and allows switching between KPIs using a slicer/button
 ```DAX
 Metric = {
     ("Total Sales", NAMEOF('BloomGro'[Total Sales]), 0),
@@ -80,8 +80,8 @@ Metric = {
 ```
 
 ## Dashboard
-<a href="https://raw.githubusercontent.com/eocreates/PowerBI-Project/blob/main/BloomGroStore/BloomGro.png">
-  <img src="https://raw.githubusercontent.com/eocreates/PowerBI-Project/blob/main/BloomGroStore/BloomGro.png" width="700">
+<a href="https://github.com/eocreates/PowerBI-Project/blob/main/BloomGroStore/BloomGro.png">
+  <img src="https://github.com/eocreates/PowerBI-Project/blob/main/BloomGroStore/BloomGro.png" width="700">
 </a>
 
 
