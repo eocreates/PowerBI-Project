@@ -9,16 +9,7 @@ I use Power BI Desktop and Power BI Service to build scalable reporting solution
 
 ⚙ Key Features of My Power BI Projects:
 
-* 🔗 Data connection and transformation from sources like SQL Server, Excel, and Azure
+* Adidas Sales Analysis 
 
-* 🧠 DAX measures and calculated columns for advanced analytics
-
-* 🧩 Data modelling and relationships for optimized performance
-
-* 🎨 Dashboard design and storytelling for executive reporting
-
-* 🌐 Cloud integration and sharing via Power BI Service
-
-* 📈 KPI-driven insights that enhance business performance
 
 Each dashboard reflects my passion for combining data visualization and strategic storytelling to turn numbers into meaningful narratives.
