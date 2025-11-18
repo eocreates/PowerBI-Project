@@ -82,7 +82,7 @@ The dashboard empowers business managers with clear, actionable insights for boo
 ### Dashboard Features
 **1. KPI indicators for:**
   - Total Sales, Operating Profit, Units Sold, Price per Unit, and Margin
-  - 
+    
 **2. Line chart:** Sales trend by month
 
 **3. Map:** Total sales by U.S. states
